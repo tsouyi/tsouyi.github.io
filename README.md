@@ -1,3 +1,2 @@
 # tsouyi.github.io
-
-https://github.com/utsouyi/tsouyi.github.io
+https://tsouyi.github.io/Yi_exercise.html
